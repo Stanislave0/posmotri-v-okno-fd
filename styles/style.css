@@ -194,8 +194,8 @@ ol {
   line-clamp: 4;
   overflow: hidden;
   text-overflow: ellipsis;
-  line-height: 16.2px;
   letter-spacing: 0;
+  line-height: 16.2px;
 }
 
 .search-form__checkbox-list {
